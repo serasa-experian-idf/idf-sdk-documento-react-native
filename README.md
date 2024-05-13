@@ -1,0 +1,1 @@
+# idf-sdk-documento-react-native
